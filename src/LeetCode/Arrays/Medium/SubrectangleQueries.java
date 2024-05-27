@@ -1,4 +1,4 @@
-package LeetCode.Arrays.Easy;
+package LeetCode.Arrays.Medium;
 
 /*
         Implement the class SubrectangleQueries which receives a rows x cols rectangle as a matrix of integers in the constructor and supports two methods:

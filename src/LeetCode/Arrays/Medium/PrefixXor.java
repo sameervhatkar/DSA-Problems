@@ -1,4 +1,4 @@
-package LeetCode.Arrays.Easy;
+package LeetCode.Arrays.Medium;
 
 /*
     You are given an integer array pref of size n. Find and return the array arr of size n that satisfies:
